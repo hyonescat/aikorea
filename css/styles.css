@@ -430,6 +430,7 @@ a:hover { color: var(--accent-gold); text-shadow: 0 0 20px var(--accent-gold-glo
   margin: 0.5rem 0;
   text-shadow: 0 0 10px var(--accent-cyan-glow);
   box-shadow: 0 0 20px rgba(0,212,255,0.1);
+  white-space: nowrap;
 }
 
 /* Stats Grid */
@@ -959,6 +960,7 @@ a:hover { color: var(--accent-gold); text-shadow: 0 0 20px var(--accent-gold-glo
   .card-stat {
     font-size: 1.1rem;
     padding: 0.25rem 0.6rem;
+    white-space: nowrap;
   }
   .stats-grid { 
     grid-template-columns: repeat(2, 1fr);
