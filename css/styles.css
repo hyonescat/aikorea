@@ -418,7 +418,9 @@ a:hover { color: var(--accent-gold); text-shadow: 0 0 20px var(--accent-gold-glo
 .card-content { color: rgba(255,255,255,0.7); font-size: 0.95rem; }
 
 .card-stat {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
   font-size: 1.25rem;
   font-weight: 700;
   color: var(--accent-cyan);
@@ -431,6 +433,22 @@ a:hover { color: var(--accent-gold); text-shadow: 0 0 20px var(--accent-gold-glo
   text-shadow: 0 0 10px var(--accent-cyan-glow);
   box-shadow: 0 0 20px rgba(0,212,255,0.1);
   white-space: nowrap;
+}
+
+.card-stat.years {
+  background: linear-gradient(135deg, rgba(168,85,247,0.15) 0%, rgba(168,85,247,0.05) 100%);
+  border-color: rgba(168,85,247,0.3);
+  color: #a855f7;
+  text-shadow: 0 0 10px rgba(168,85,247,0.5);
+  box-shadow: 0 0 20px rgba(168,85,247,0.1);
+}
+
+.stat-usd {
+  font-size: 0.7rem;
+  font-weight: 500;
+  color: rgba(255,255,255,0.6);
+  font-family: var(--font-body);
+  text-shadow: none;
 }
 
 /* Stats Grid */
@@ -958,9 +976,13 @@ a:hover { color: var(--accent-gold); text-shadow: 0 0 20px var(--accent-gold-glo
     gap: 1rem;
   }
   .card-stat {
-    font-size: 1.1rem;
-    padding: 0.25rem 0.6rem;
+    font-size: 1rem;
+    padding: 0.25rem 0.5rem;
     white-space: nowrap;
+    gap: 0.35rem;
+  }
+  .stat-usd {
+    font-size: 0.6rem;
   }
   .stats-grid { 
     grid-template-columns: repeat(2, 1fr);
