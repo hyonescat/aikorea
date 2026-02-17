@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "title": "Republic of Korea: AI & Technology Leadership",
+    "lastUpdated": "2026-02-17",
+    "sources": [
+      "Ministry of Economy and Finance, Republic of Korea",
+      "Ministry of Science and ICT, Republic of Korea",
+      "Korea Internet & Security Agency (KISA)",
+      "UN E-Government Survey 2024",
+      "IMF World Economic Outlook 2025"
+    ]
+  },
+  "overview": {
+    "gdp": "$1.86 trillion (2025 est.)",
+    "gdpRank": "14th globally",
+    "population": "52.08 million (2024)",
+    "hdi": "0.937 (20th globally)",
+    "rdInvestment": "4.9% of GDP"
+  },
+  "aiStrategy": {
+    "kNewDeal": "KRW 160 trillion",
+    "digitalNewDeal": "KRW 58.2 trillion",
+    "aiSpecialists": "20,000+ trained",
+    "keyCompanies": ["Naver", "Kakao", "Samsung", "LG", "SK"]
+  },
+  "technology": {
+    "semiconductorMarketShare": "63%",
+    "semiconductorExports": "$131 billion (2024)",
+    "5gLaunch": "April 2019 (world's first)",
+    "5gBaseStations": "230,000+",
+    "robotDensity": "1,000+ per 10,000 workers (#1)"
+  },
+  "egovernment": {
+    "unRanking": "#2 in E-Government Index (2024)",
+    "onlineServiceIndex": "#1 globally",
+    "government24Users": "40 million+",
+    "digitalIdentityCoverage": "99% of adults"
+  }
+}
