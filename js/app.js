@@ -211,7 +211,7 @@ function initParallax() {
    Counter Animation for Statistics
    ============================================ */
 function initCounterAnimation() {
-  const counters = document.querySelectorAll('.hero-stat-value, .stat-value, .card-stat');
+  const counters = document.querySelectorAll('.hero-stat-value, .stat-value, .card-stat:not(.years)');
   
   const counterObserver = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
