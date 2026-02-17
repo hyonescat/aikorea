@@ -439,18 +439,7 @@ a:hover { color: var(--accent-gold); text-shadow: 0 0 20px var(--accent-gold-glo
   color: #a855f7;
   text-shadow: 0 0 10px rgba(168,85,247,0.5);
   box-shadow: 0 0 20px rgba(168,85,247,0.1);
-  display: inline-flex;
-  align-items: center;
-  gap: 0.35rem;
-}
-
-.year-start, .year-end {
-  display: inline-block;
-}
-
-.year-separator {
-  display: inline-block;
-  margin: 0 0.2rem;
+  letter-spacing: 0.05em;
 }
 
 /* Stats Grid */
