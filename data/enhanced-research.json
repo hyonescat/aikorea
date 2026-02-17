@@ -239,6 +239,232 @@
         "2027": "Quantum-safe encryption deployment",
         "2030": "Fully integrated AI defense network"
       }
+    },
+    {
+      "id": "environment",
+      "name": "Environment & Climate",
+      "priority": "High",
+      "keyStats": {
+        "smartGridCoverage": "45% of households",
+        "airQualityStations": "600+ AI-enabled",
+        "renewableEnergyAi": "15.8 GW managed",
+        "carbonTrackingUsers": "12 million",
+        "waterLeakageReduction": "18%"
+      },
+      "initiatives": [
+        {
+          "name": "Smart Grid 2.0 National Program",
+          "period": "2021-2027",
+          "budget": "KRW 5.2 trillion"
+        },
+        {
+          "name": "AI Air Quality Monitoring Network",
+          "stations": "600+ with AI sensors"
+        },
+        {
+          "name": "National Carbon Tracking Platform",
+          "users": "12 million registered"
+        },
+        {
+          "name": "Smart Water Management System",
+          "coverage": "87% of water utilities"
+        },
+        {
+          "name": "Climate Prediction AI Center"
+        }
+      ],
+      "technologyProviders": [
+        "KEPCO",
+        "K-water",
+        "Korea Meteorological Administration",
+        "SK E&S",
+        "POSCO Energy"
+      ],
+      "impactMetrics": {
+        "energyEfficiencyGain": "12% grid optimization",
+        "airQualityPredictionAccuracy": "91%",
+        "renewableIntegrationRate": "+34%",
+        "waterSavings": "320 million tons/year",
+        "carbonReduction": "2.3M tons tracked"
+      },
+      "futurePlans": {
+        "2025": "100% smart meter coverage",
+        "2026": "Carbon neutrality tracking platform",
+        "2027": "AI-powered circular economy system",
+        "2030": "Net-zero smart city infrastructure"
+      }
+    },
+    {
+      "id": "justice",
+      "name": "Justice & Legal Services",
+      "priority": "Medium",
+      "keyStats": {
+        "aiCaseAnalysisCourts": 50,
+        "digitalCourtCases": "87% of filings",
+        "legalChatbotUsers": "3.2 million",
+        "smartPrisons": 8,
+        "onlineLegalAid": "1.8 million consultations"
+      },
+      "initiatives": [
+        {
+          "name": "AI-Assisted Case Analysis System",
+          "deployment": "50 courts nationwide",
+          "results": ["40% faster case preparation", "85% accuracy in precedent matching"]
+        },
+        {
+          "name": "Digital Court 3.0 Initiative",
+          "adoption": "87% of civil cases filed digitally"
+        },
+        {
+          "name": "Online Legal Services Platform",
+          "usage": "3.2 million annual consultations"
+        },
+        {
+          "name": "Smart Prison Management System",
+          "facilities": "8 pilot prisons"
+        },
+        {
+          "name": "Legal Chatbot Network",
+          "platforms": ["Supreme Court chatbot", "Legal Aid chatbot", "Ministry of Justice AI"]
+        }
+      ],
+      "technologyProviders": [
+        "Supreme Court of Korea",
+        "Korea Legal Aid Corporation",
+        "Ministry of Justice ICT Center",
+        "KT",
+        "LG CNS"
+      ],
+      "impactMetrics": {
+        "caseProcessingTimeReduction": "35%",
+        "legalAidAccessibility": "+58%",
+        "prisonOperationalEfficiency": "+22%",
+        "costSavings": "KRW 120 billion annually",
+        "citizenSatisfaction": "82%"
+      },
+      "futurePlans": {
+        "2025": "100% digital filing capability",
+        "2026": "AI-powered mediation services",
+        "2027": "Smart parole prediction system",
+        "2030": "Fully automated small claims court"
+      }
+    },
+    {
+      "id": "agriculture",
+      "name": "Agriculture & Rural Development",
+      "priority": "Medium",
+      "keyStats": {
+        "smartFarms": "12,800 registered",
+        "aiCropPredictionCoverage": "45% of arable land",
+        "automatedGreenhouses": "3,200 facilities",
+        "livestockMonitoringSystems": "8,500 farms",
+        "rural5gCoverage": "78% of villages"
+      },
+      "initiatives": [
+        {
+          "name": "Smart Farm Expansion Program",
+          "period": "2020-2027",
+          "target": "30,000 smart farms by 2027"
+        },
+        {
+          "name": "AI Crop Prediction Service",
+          "coverage": "45% of arable land",
+          "accuracy": "89% yield prediction"
+        },
+        {
+          "name": "Automated Greenhouse Initiative",
+          "facilities": "3,200 AI-controlled greenhouses"
+        },
+        {
+          "name": "Smart Livestock Management",
+          "farms": "8,500 with AI monitoring",
+          "features": ["Health tracking", "Feed optimization", "Disease early warning"]
+        },
+        {
+          "name": "Rural Digital Inclusion Project",
+          "coverage": "78% of villages with 5G"
+        }
+      ],
+      "technologyProviders": [
+        "Nonghyup (National Agricultural Cooperative Federation)",
+        "Rural Development Administration",
+        "KT AgTech",
+        "SK Telecom Smart Farm",
+        "LG U+ Rural 5G",
+        "Korea Internet Agency"
+      ],
+      "impactMetrics": {
+        "cropYieldImprovement": "18% average increase",
+        "waterUsageReduction": "25% with smart irrigation",
+        "pesticideReduction": "32% with AI pest detection",
+        "farmIncomeIncrease": "+15% for smart farms",
+        "ruralDigitalAccess": "78% coverage"
+      },
+      "futurePlans": {
+        "2025": "30,000 smart farms target",
+        "2026": "AI-based agricultural trading platform",
+        "2027": "Autonomous farm equipment deployment",
+        "2030": "Fully connected smart agricultural network"
+      }
+    },
+    {
+      "id": "culture",
+      "name": "Culture & Tourism",
+      "priority": "Medium",
+      "keyStats": {
+        "aiTranslationUsers": "45 million monthly",
+        "smartTourismPlatforms": "8 regional platforms",
+        "digitizedHeritageItems": "2.8 million artifacts",
+        "kContentAIRecommendations": "85% of streaming",
+        "virtualTourismUsers": "12 million annually"
+      },
+      "initiatives": [
+        {
+          "name": "AI Translation Services (Naver Papago)",
+          "users": "45 million monthly",
+          "languages": "13 including Korean-English-Chinese-Japanese"
+        },
+        {
+          "name": "Smart Tourism Platform (KTO)",
+          "features": ["AI itinerary planning", "Real-time translation", "Personalized recommendations"]
+        },
+        {
+          "name": "Cultural Heritage Digitization Project",
+          "artifacts": "2.8 million digitized",
+          "technologies": ["3D scanning", "VR exhibitions", "AI restoration"]
+        },
+        {
+          "name": "K-Content Recommendation AI",
+          "coverage": "85% of streaming platforms",
+          "platforms": ["Netflix Korea", "TVING", "Wavve", "Coupang Play"]
+        },
+        {
+          "name": "Virtual Tourism Experience Center",
+          "annualUsers": "12 million",
+          "experiences": ["Virtual DMZ tours", "Palace VR experiences", "K-pop metaverse concerts"]
+        }
+      ],
+      "technologyProviders": [
+        "Naver (Papago translation)",
+        "Kakao (translation and content)",
+        "Korea Tourism Organization",
+        "Cultural Heritage Administration",
+        "SK Telecom (5G tourism)",
+        "Korea Creative Content Agency"
+      ],
+      "impactMetrics": {
+        "tourismRevenueIncrease": "23% with AI personalization",
+        "translationAccuracy": "94% for major languages",
+        "heritagePreservation": "2.8M artifacts digitized",
+        "contentDiscovery": "+40% with AI recommendations",
+        "visitorSatisfaction": "88%"
+      },
+      "futurePlans": {
+        "2025": "AI tour guide for all major attractions",
+        "2026": "Holographic heritage exhibitions",
+        "2027": "Real-time AR translation glasses",
+        "2030": "Fully immersive metaverse tourism"
+      }
     }
   ]
 }
