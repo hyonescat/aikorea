@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "title": "Korea Government AI & E-Government Sector Analysis",
+    "lastUpdated": "2026-02-17",
+    "dataPeriod": "2023-2025"
+  },
+  "sectors": [
+    {
+      "id": "healthcare",
+      "name": "Healthcare & Public Health",
+      "priority": "High",
+      "keyStats": {
+        "aiDiagnosisApproved": 114,
+        "smartHospitals": 42,
+        "telemedicineGrowth": "340% post-COVID",
+        "digitalHealthInvestment": "KRW 3.2 trillion",
+        "nhiDigitalClaims": "98.7%"
+      },
+      "initiatives": [
+        {
+          "name": "Smart Hospital Expansion Program",
+          "period": "2023-2027",
+          "budget": "KRW 800 billion",
+          "description": "Deployment of AI diagnosis, robotic surgery, and automated patient management systems"
+        },
+        {
+          "name": "AI Medical Device Fast-Track Approval",
+          "period": "2020-ongoing",
+          "authority": "MFDS",
+          "description": "Accelerated approval process for AI-based medical devices"
+        },
+        {
+          "name": "National Health Insurance Service Digitalization",
+          "period": "2021-2025",
+          "description": "Full digital transformation of claims processing and AI-powered fraud detection"
+        },
+        {
+          "name": "Telemedicine Expansion Initiative",
+          "period": "2022-2026",
+          "description": "Post-COVID permanent framework for remote consultations"
+        },
+        {
+          "name": "K-Disease Prediction Platform",
+          "period": "2023-2028",
+          "description": "AI-powered early warning system for infectious diseases"
+        }
+      ],
+      "technologyProviders": [
+        "Vuno (AI diagnosis)",
+        "Lunit (medical imaging AI)",
+        "JLK Inc. (stroke diagnosis)",
+        "Samsung Healthcare",
+        "LG CNS (hospital systems)",
+        "Naver Health",
+        "KT (5G smart hospitals)"
+      ],
+      "impactMetrics": {
+        "diagnosisAccuracyImprovement": "15-30%",
+        "averageDiagnosisTimeReduction": "40%",
+        "ruralHealthcareAccess": "+67% via telemedicine",
+        "hospitalOperationalEfficiency": "+23%",
+        "fraudDetectionRate": "99.2%"
+      },
+      "futurePlans": {
+        "2025": "100+ AI diagnosis products approved",
+        "2026": "Smart hospital standards nationwide",
+        "2027": "Digital therapeutic integration",
+        "2030": "Precision medicine platform"
+      }
+    },
+    {
+      "id": "transportation",
+      "name": "Transportation & Smart Mobility",
+      "priority": "High",
+      "keyStats": {
+        "kCityInvestment": "KRW 42 billion",
+        "autonomousTestZones": 4,
+        "smartTrafficCoverage": "78% of major cities",
+        "evChargingStations": "250000+",
+        "kPassportUsers": "18.5 million"
+      },
+      "initiatives": [
+        {
+          "name": "K-City Autonomous Vehicle Testing Complex",
+          "location": "Hwaseong, Gyeonggi Province",
+          "features": ["5G network coverage", "AI traffic control", "V2X infrastructure", "Virtual city simulation"],
+          "partners": ["Hyundai", "Kia", "Samsung", "KT", "LG U+"]
+        },
+        {
+          "name": "Smart Traffic Management 3.0",
+          "period": "2022-2026",
+          "budget": "KRW 1.2 trillion",
+          "description": "AI-powered real-time traffic optimization"
+        },
+        {
+          "name": "National EV Infrastructure Expansion",
+          "target": "500,000 charging stations by 2026"
+        },
+        {
+          "name": "K-Passport Integration",
+          "description": "Unified digital transport pass with AI route optimization"
+        },
+        {
+          "name": "Urban Air Mobility Framework",
+          "period": "2024-2030"
+        }
+      ],
+      "technologyProviders": [
+        "Hyundai Mobis",
+        "Kia (autonomous systems)",
+        "Mando Corporation",
+        "Naver Maps",
+        "Kakao Mobility",
+        "Tmap",
+        "KEPCO"
+      ],
+      "impactMetrics": {
+        "trafficCongestionReduction": "18%",
+        "averageCommuteTimeSaved": "12 minutes/day",
+        "accidentReduction": "25% in smart zones",
+        "evAdoptionRate": "15.2% of new cars (2024)",
+        "publicTransportUsage": "72% modal share"
+      },
+      "futurePlans": {
+        "2025": "Level 4 autonomous vehicles commercial deployment",
+        "2026": "Smart highway corridor Seoul-Busan",
+        "2027": "UAM pilot operations",
+        "2030": "Fully integrated MaaS platform"
+      }
+    },
+    {
+      "id": "education",
+      "name": "Education & Digital Learning",
+      "priority": "High",
+      "keyStats": {
+        "digitalTextbookRollout": "2025 (grades 3-4, middle school)",
+        "aiTutorUsers": "2.3 million students",
+        "aiUniversityPrograms": "127 departments",
+        "ebsDailyUsers": "4.2 million",
+        "digitalLiteracySeniors": "68% completion"
+      },
+      "initiatives": [
+        {
+          "name": "AI Digital Textbook National Program",
+          "period": "2025-2028",
+          "budget": "KRW 480 billion"
+        },
+        {
+          "name": "AI Tutor Initiative",
+          "platforms": ["Chunjae Education", "Visang", "Megastudy", "EBS AI Tutor"]
+        },
+        {
+          "name": "University AI Department Expansion",
+          "achievements": ["127 new AI departments", "Graduate School of AI at KAIST, POSTECH", "10,000+ AI scholarships"]
+        },
+        {
+          "name": "EBS Digital Learning Platform Enhancement"
+        },
+        {
+          "name": "Digital Literacy for Seniors",
+          "target": "5 million seniors by 2025",
+          "centers": "4,500+ nationwide"
+        }
+      ],
+      "technologyProviders": [
+        "Chunjae Education",
+        "Visang",
+        "Megastudy",
+        "EBS",
+        "KT Education",
+        "SK Telecom EdTech",
+        "Naver Education"
+      ],
+      "impactMetrics": {
+        "studentEngagement": "+35% with AI tutors",
+        "learningEfficiency": "+28% personalized paths",
+        "digitalDivideReduction": "45% among seniors",
+        "aiGraduatesAnnual": "8,500+",
+        "onlineClassAttendance": "94%"
+      },
+      "futurePlans": {
+        "2025": "Full digital textbook deployment",
+        "2026": "AI curriculum in all schools",
+        "2027": "Metaverse classrooms pilot",
+        "2030": "Personalized AI education for all"
+      }
+    },
+    {
+      "id": "defense",
+      "name": "Defense & Security",
+      "priority": "Critical",
+      "keyStats": {
+        "aiDefenseBudget": "KRW 1.1 trillion (2024)",
+        "smartCctvs": "180,000+ AI-enabled",
+        "kisaIncidentsHandled": "4.2 million/year",
+        "aiMilitaryProjects": 23,
+        "disasterPredictionAccuracy": "87%"
+      },
+      "initiatives": [
+        {
+          "name": "AI-Powered Smart CCTV Network",
+          "coverage": "180,000+ cameras in 252 centers"
+        },
+        {
+          "name": "KISA Cyber Defense Operations",
+          "achievements": ["4.2M incidents handled annually", "98.7% detection rate"]
+        },
+        {
+          "name": "Smart Border Control System",
+          "deployment": "All international airports and major ports"
+        },
+        {
+          "name": "Defense AI Strategy 2030",
+          "budget": "KRW 1.1 trillion (2024)"
+        },
+        {
+          "name": "AI Disaster Prediction and Response"
+        }
+      ],
+      "technologyProviders": [
+        "Hanwha Systems",
+        "LIG Nex1",
+        "Korea Aerospace Industries",
+        "KISA",
+        "Korean National Police Agency",
+        "KT",
+        "SK Shieldus"
+      ],
+      "impactMetrics": {
+        "crimePreventionRate": "+23% in smart zones",
+        "cyberThreatDetection": "98.7%",
+        "borderProcessingTime": "-65% with smart gates",
+        "emergencyResponseTime": "-40%",
+        "falseAlarmReduction": "78%"
+      },
+      "futurePlans": {
+        "2025": "AI-powered military command system",
+        "2026": "Drone swarm defense capability",
+        "2027": "Quantum-safe encryption deployment",
+        "2030": "Fully integrated AI defense network"
+      }
+    }
+  ]
+}
